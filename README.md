@@ -37,3 +37,10 @@ Fully working Opencore config for [Eglobal S200](https://www.aliexpress.com/item
 - [Making own USB port map](https://www.tonymacx86.com/threads/the-new-beginners-guide-to-usb-port-configuration.286553/#post-2029768)
 - [How to map your USB Ports on macOS](https://elitemacx86.com/threads/how-to-map-your-usb-ports-on-macos.581/)
 - [Intel UHD 630 iGPU configuration](https://www.tonymacx86.com/threads/guide-intel-uhd-graphics-630-coffee-lake-headless-mode-main-card.304000/)
+
+
+## Geekbench Tests
+![Screen Shot 2022-10-02 at 12 02 40 PM](https://user-images.githubusercontent.com/7040503/193446564-9617547e-1580-4f63-8368-f30b3f84b817.png)
+![Screen Shot 2022-10-02 at 12 03 53 PM](https://user-images.githubusercontent.com/7040503/193446592-f12e6261-ca0a-497e-8122-1927870871d9.png)
+![Screen Shot 2022-10-02 at 12 05 13 PM](https://user-images.githubusercontent.com/7040503/193446639-a4f40def-9ecb-4bfc-a287-1e4d61b07222.png)
+
