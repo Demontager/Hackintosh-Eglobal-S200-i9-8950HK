@@ -9,7 +9,7 @@ Fully working Opencore config for [Eglobal S200](https://www.aliexpress.com/item
 - Storage: Samsung 970 EVO M.2 512GB
 - iGPU: Intel UHD 630
 - WIFI/BT: Intel 3165ngw (Internal M.2 E Key 2230)
-- SMIBIOS macmini8,1
+- SMIBIOS: macmini8,1
 - OpenCore 0.8.4 RELEASE
 
 ![Screen Shot 2022-10-02 at 11 57 36 AM](https://user-images.githubusercontent.com/7040503/193446479-283ad0fc-ba25-4f5d-b9a0-796ab700c5b8.png)
@@ -35,6 +35,7 @@ Fully working Opencore config for [Eglobal S200](https://www.aliexpress.com/item
 - [Hackintool](https://github.com/headkaze/Hackintool)
 - [SSDTTime](https://github.com/corpnewt/SSDTTime)
 - [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS)
+- [IORegistryExplorer](https://github.com/vulgo/IORegistryExplorer)
 
 ## Guides:
 - [Custom SSDT's with SSDTTime](https://www.tonymacx86.com/threads/custom-ssdts-using-corpnewts-ssdttime.318976/)
