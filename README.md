@@ -1,7 +1,7 @@
 
 Hackintosh Monterey 12.6 on NUC-like S200-i9-8950HK
 
-Fully working Opencore config for Eglobal S200 motherboard https://www.aliexpress.com/item/4000465233975.html
+Fully working Opencore config for https://www.aliexpress.com/item/4000465233975.html 
 
 - Motherboard: Eglobal S200 Bios ver. 
 - CPU: Intel i9-895HK Coffee Lake
