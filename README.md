@@ -46,7 +46,7 @@ Fully working Opencore config for [Eglobal S200](https://www.aliexpress.com/item
 
 
 ## Geekbench Tests
-![Screen Shot 2022-10-02 at 12 02 40 PM](https://user-images.githubusercontent.com/7040503/193446564-9617547e-1580-4f63-8368-f30b3f84b817.png)
+![Screen Shot 2022-10-02 at 12 34 27 PM](https://user-images.githubusercontent.com/7040503/193447680-8ca444b9-2fb2-4fca-ac2e-709294edb10a.png)
 ![Screen Shot 2022-10-02 at 12 03 53 PM](https://user-images.githubusercontent.com/7040503/193446592-f12e6261-ca0a-497e-8122-1927870871d9.png)
 ![Screen Shot 2022-10-02 at 12 05 13 PM](https://user-images.githubusercontent.com/7040503/193446639-a4f40def-9ecb-4bfc-a287-1e4d61b07222.png)
 
