@@ -12,6 +12,17 @@ Fully working Opencore config for [Eglobal S200](https://www.aliexpress.com/item
 - SMIBIOS macmini8,1
 - OpenCore 0.8.4 RELEASE
 
+![Screen Shot 2022-10-02 at 11 57 36 AM](https://user-images.githubusercontent.com/7040503/193446479-283ad0fc-ba25-4f5d-b9a0-796ab700c5b8.png)
+
+
+## Tested and found working:
+- Boot into MacOS 12.6
+- Display Port / HDMI output
+- Internal Audio Realtek ALC269
+- Sleep Wake up from bluetooth mouse or keyboard
+- iGPU hardware acceleration
+- WIFI and Bluetooth 
+- Internal Gigabit Network Card RTL8111/8168/8411
 
 ## Tools used:
 - [Opencore](https://dortania.github.io/OpenCore-Install-Guide/) 
