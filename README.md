@@ -14,6 +14,10 @@ Fully working Opencore config for [Eglobal S200](https://www.aliexpress.com/item
 
 ![Screen Shot 2022-10-02 at 11 57 36 AM](https://user-images.githubusercontent.com/7040503/193446479-283ad0fc-ba25-4f5d-b9a0-796ab700c5b8.png)
 
+## BIOS SETTINGS
+Default settings
+Enable CSM support if keyboard unresponsible in OCR menu
+
 
 ## Tested and found working:
 - Boot into MacOS 12.6
