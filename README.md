@@ -1,5 +1,5 @@
 
-Hackintosh Monterey 12.6 on NUC-like S200-i9-8950HK
+Hackintosh Monterey/Ventura on NUC-like S200-i9-8950HK
 
 Fully working Opencore config for [Eglobal S200](https://www.aliexpress.com/item/4000465233975.html)  
 
@@ -13,6 +13,8 @@ Fully working Opencore config for [Eglobal S200](https://www.aliexpress.com/item
 - OpenCore 0.8.4 RELEASE
 
 ![Screen Shot 2022-10-02 at 11 57 36 AM](https://user-images.githubusercontent.com/7040503/193446479-283ad0fc-ba25-4f5d-b9a0-796ab700c5b8.png)
+![Scr48 50 PM](https://user-images.githubusercontent.com/7040503/226114861-c9c86d51-2113-462c-bcdd-a7d10939f64d.png)
+
 
 ## BIOS SETTINGS
 - Default settings
